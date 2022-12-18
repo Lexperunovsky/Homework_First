@@ -1,0 +1,15 @@
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\bin\Debug\net6.0\Homework_second_Ex.exe
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\bin\Debug\net6.0\Homework_second_Ex.deps.json
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\bin\Debug\net6.0\Homework_second_Ex.runtimeconfig.json
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\bin\Debug\net6.0\Homework_second_Ex.dll
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\bin\Debug\net6.0\Homework_second_Ex.pdb
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\obj\Debug\net6.0\Homework_second_Ex.csproj.AssemblyReference.cache
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\obj\Debug\net6.0\Homework_second_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\obj\Debug\net6.0\Homework_second_Ex.AssemblyInfoInputs.cache
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\obj\Debug\net6.0\Homework_second_Ex.AssemblyInfo.cs
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\obj\Debug\net6.0\Homework_second_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\obj\Debug\net6.0\Homework_second_Ex.dll
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\obj\Debug\net6.0\refint\Homework_second_Ex.dll
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\obj\Debug\net6.0\Homework_second_Ex.pdb
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\obj\Debug\net6.0\Homework_second_Ex.genruntimeconfig.cache
+C:\Users\Lex\Desktop\HomeworkC#\Homework_second_Ex\obj\Debug\net6.0\ref\Homework_second_Ex.dll
