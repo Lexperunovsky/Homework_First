@@ -1,0 +1,15 @@
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\bin\Debug\net6.0\Homework_third_Ex.exe
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\bin\Debug\net6.0\Homework_third_Ex.deps.json
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\bin\Debug\net6.0\Homework_third_Ex.runtimeconfig.json
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\bin\Debug\net6.0\Homework_third_Ex.dll
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\bin\Debug\net6.0\Homework_third_Ex.pdb
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\obj\Debug\net6.0\Homework_third_Ex.csproj.AssemblyReference.cache
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\obj\Debug\net6.0\Homework_third_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\obj\Debug\net6.0\Homework_third_Ex.AssemblyInfoInputs.cache
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\obj\Debug\net6.0\Homework_third_Ex.AssemblyInfo.cs
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\obj\Debug\net6.0\Homework_third_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\obj\Debug\net6.0\Homework_third_Ex.dll
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\obj\Debug\net6.0\refint\Homework_third_Ex.dll
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\obj\Debug\net6.0\Homework_third_Ex.pdb
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\obj\Debug\net6.0\Homework_third_Ex.genruntimeconfig.cache
+C:\Users\Lex\Desktop\HomeworkC#\Homework_third_Ex\obj\Debug\net6.0\ref\Homework_third_Ex.dll
